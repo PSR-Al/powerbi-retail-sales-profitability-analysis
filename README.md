@@ -169,7 +169,7 @@ These visualizations make it possible to analyze the business from different per
 
 The full interactive dashboard can be downloaded here:
 
-[Download the Power BI dashboard](Análisis de ventas y rentabilidad en retail.pbix)
+[Download the Power BI dashboard](retail-sales-profitability-dashboard.pbix)
 
 To explore the dashboard, download the file and open it using **Power BI Desktop**.
 
