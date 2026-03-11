@@ -171,3 +171,15 @@ These visualizations make it possible to analyze the business from different per
 This project was developed as a **data analysis and business intelligence exercise** to demonstrate how Power BI can be used to analyze commercial performance in the retail sector.
 
 The dashboard illustrates how combining sales data, customer information and return metrics can provide valuable insights that support strategic decision-making and help improve overall business profitability.
+
+---
+
+# Dashboard Preview
+
+## Commercial Performance
+
+![Commercial Performance Dashboard](dashboard-performance.png)
+
+## Customer and Segment Analysis
+
+![Customer Analysis Dashboard](dashboard-customer-analysis.png)
