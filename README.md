@@ -168,9 +168,9 @@ These visualizations make it possible to analyze the business from different per
 
 # Project File
 
-The interactive dashboard is available in the following file:
+The interactive dashboard can be downloaded here:
 
-`Retail_Analysis.pbix`
+[Download the Power BI dashboard](Análisis de ventas y rentabilidad en retail.pbix)
 
 To explore the dashboard, download the file and open it using **Power BI Desktop**.
 
