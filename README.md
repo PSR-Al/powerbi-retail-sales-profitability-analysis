@@ -166,16 +166,6 @@ These visualizations make it possible to analyze the business from different per
 
 ---
 
-# Project File
-
-The interactive dashboard can be downloaded here:
-
-[Download the Power BI dashboard](Análisis de ventas y rentabilidad en retail.pbix)
-
-To explore the dashboard, download the file and open it using **Power BI Desktop**.
-
----
-
 # Purpose of the Project
 
 This project was developed as a **data analysis and business intelligence exercise** to demonstrate how Power BI can be used to analyze commercial performance in the retail sector.
